@@ -1,0 +1,30 @@
+Solid Edge fordítás STEP formátumba
+Dátum: vasárnap,szeptember 15,2019 11:08de.
+Kimeneti fájl: C:\Users\Vincze Dóra\Desktop\hackaton\bin_models_STEP\bin_mounting_paper.stp
+Szerzõ: Unknown
+Szervezet: Unknown
+Forrás rendszer: Solid Edge
+
+Hardver:
+Processzor: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+Operációs rendszer: Windows 8
+Telepített memória: 7.83 GB
+
+Szoftver információ
+Parasolid verzió: 30.1.256
+PSBodyShop verzió: 30.1.94
+Step fordító verzió: 4.0.40
+Solid Edge verzió: 219.00.01.006 x64
+
+STEP exportálási beállítások
+Exportálási formátum: AP214
+Konstrukciós felületek exportálása: Ki
+Konstrukciós testek exportálása: Ki
+Konstrukciós drótvázak exportálása: Ki
+Csak a látható alkatrészek exportálása: Ki
+Exportálási mértékegység: Millimeters
+Alkatrész komponens nevek exportálása unikód formátumban: Ki
+
+1/1. fázis: Parasolid fordítás idegen adattípusokba...
+Fordítási folyamat befejezõdött
+A fordításhoz szükséges idõ:00 : 00 : 00
